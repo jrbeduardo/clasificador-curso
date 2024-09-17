@@ -1,4 +1,4 @@
-# Clasificador de Imagenes con redes neuronalesSome basic Git commands are:
+# Clasificador de Imagenes con redes neuronales
 
 ```
 git status
